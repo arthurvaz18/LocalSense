@@ -1,0 +1,2 @@
+# LocalSense
+Startup de entretenimento.
